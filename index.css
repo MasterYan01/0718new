@@ -1,8 +1,16 @@
 body{
     background:url(asset/IMG_0293.JPG) repeat-y
+;
+height: 99999px;
 }
 h1{
     color: red;
     font-weight: 900;
     font-size: 100px;
+}
+h2{color: blue;
+font-weight: 900;
+font-size: 100px;}
+.container{
+    border:pink 20px solid ;
 }
