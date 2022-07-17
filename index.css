@@ -2,5 +2,7 @@ body{
     background:url(asset/IMG_0293.JPG) repeat-y
 }
 h1{
-    color: blue;
+    color: red;
+    font-weight: 900;
+    font-size: 100px;
 }
